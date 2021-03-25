@@ -17,7 +17,7 @@ const bannedwords = ["@here", "@everyone"];
 
 const ytdl = require("ytdl-core");
 
-const prefix = "d!";
+const prefix = "s!";
 
 const queue = new Map();
 bot.on("ready", () => console.log("🤖Ready Bot In online🤖"));
