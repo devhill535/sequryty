@@ -2986,4 +2986,4 @@ message.chanel.sendEmbed(embed);
 ////////message
 
 
-bot.login(process.env.BOT_TOKEN);
+bot.login('ODE0NjI0MDA5Mjg2NDUxMjYw.YDgjug.gjnqDU4ukLhfc5LL5733uzUwDOM');
